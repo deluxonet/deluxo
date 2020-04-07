@@ -23,4 +23,4 @@ The core purpose of Deluxo is to create a safe and easy way to tip friends, fami
 
 Be sure to follow [@deluxo](https://twitter.com/deluxo) on Twitter for news and updates!
 
-Also, visit [deluxo.net](http://deluxo.net) to discover ways on how to earn Deluxo for yourself!
+Also, visit [deluxo.org](http://deluxo.org) to discover ways on how to earn Deluxo for yourself!
